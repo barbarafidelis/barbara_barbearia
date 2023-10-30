@@ -1,0 +1,37 @@
+h1{
+  color: #6495ED;
+  text-align: center;
+  background-color: black;
+  font-family: monospace;
+}
+
+p{
+  text-align: justify;
+}
+
+strong{
+  color:red;
+}
+
+nav{
+  position:absolute;
+  top: 0;right: 0;
+}
+.caixa{
+  witdh: 940px;
+  position:relative;
+  margin: 0 auto;
+  
+}
+header{
+  padding: 20px;/*padding espaçamento interno do elemento*/
+}
+
+
+
+
+
+
+
+
+
